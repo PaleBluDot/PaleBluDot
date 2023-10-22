@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/279a11d6-54ee-4ac1-9838-028d5f01c849.svg)](https://wakatime.com/@279a11d6-54ee-4ac1-9838-028d5f01c849)
 
+Stats are pulled from wakatime.com. 
+
 Languages           |  Activity
 :-------------------------:|:-------------------------:
 [![Wakatime Languages](https://wakatime.com/share/@PaleBluDot/92414625-8d4f-4f79-89d4-caf69b6f5b37.png)](https://wakatime.com)  |  [![Wakatime Languages](https://wakatime.com/share/@PaleBluDot/169a8f0e-a7db-44f7-94de-22df1a8d6550.png)](https://wakatime.com)
